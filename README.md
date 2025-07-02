@@ -434,6 +434,7 @@ Pencetakan Hasil: Daftar Project_ID yang difilter dicetak. Jika tidak ada proyek
 Kode Python (dalam main_analysis.py):
 
 Python
+```
 
 # --- SOAL 4: Dictionary and Conditional Filtering ---
 print("\n--- SOAL 4: Proyek dengan Daya Tarik Investasi Tinggi dan Konflik Rendah ---")
@@ -463,6 +464,8 @@ else:
     print("Tidak ada proyek yang memenuhi kriteria ini dalam dataset.")
 
 print("\n" + "-" * 80 + "\n")
+
+```
 Output Hasil Analisis Soal 4:
 
 Projects with High Investment Attractiveness and Low Conflict:
@@ -502,6 +505,8 @@ Kode Python (dalam main_analysis.py):
 
 Python
 
+```
+
 # --- SOAL 5: Functions and Arithmetic ---
 print("\n--- SOAL 5: Total Investasi untuk Lokasi Efisiensi Tinggi ---")
 print("Tujuan: Menghitung akumulasi investasi pada proyek-proyek yang berlokasi sangat efisien.\n")
@@ -533,6 +538,8 @@ print("Output Hasil Analisis Soal 5:")
 print(f"Total Investment for High-Efficiency Locations: {total_inv_high_efficiency:.2f} billion Rp")
 
 print("\n" + "-" * 80 + "\n")
+
+```
 Output Hasil Analisis Soal 5:
 
 Total Investment for High-Efficiency Locations: 330.00 billion Rp
