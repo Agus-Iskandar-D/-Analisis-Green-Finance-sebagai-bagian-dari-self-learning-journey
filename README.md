@@ -379,6 +379,8 @@ Kode Python (dalam main_analysis.py):
 
 Python
 
+```
+
 # --- SOAL 3: While Loop and User Input ---
 print("\n--- SOAL 3: Pemeriksa Status Lahan dan Tingkat Konflik Proyek ---")
 print("Tujuan: Menyediakan alat interaktif untuk memeriksa status lahan dan tingkat konflik sosial proyek.\n")
@@ -403,6 +405,9 @@ while True:
         print("Project not found")
 
 print("\n" + "-" * 80 + "\n")
+
+```
+
 Output Hasil Analisis Soal 3 (Contoh Interaksi):
 
 Output Hasil Analisis Soal 3:
