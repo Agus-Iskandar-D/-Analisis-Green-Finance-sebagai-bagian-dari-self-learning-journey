@@ -309,6 +309,8 @@ Kode Python (dalam main_analysis.py):
 
 Python
 
+```
+
 # --- SOAL 2: For Loop and Lists ---
 print("\n--- SOAL 2: Rata-rata Pengurangan CO2 Proyek PLTM ---")
 print("Tujuan: Menilai dampak lingkungan kolektif proyek PLTM dengan menghitung rata-rata pengurangan CO2 mereka.\n")
@@ -340,6 +342,9 @@ print("Output Hasil Analisis Soal 2:")
 print(f"Average CO2 Reduction for PLTM Projects: {average_co2_reduction_pltm:.0f} tons CO2e")
 
 print("\n" + "-" * 80 + "\n")
+
+```
+
 Output Hasil Analisis Soal 2:
 
 Average CO2 Reduction for PLTM Projects: 31500 tons CO2e
