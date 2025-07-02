@@ -245,6 +245,8 @@ Kode Python (dalam main_analysis.py):
 
 Python
 
+```
+
 # --- SOAL 1: Conditional Statements (If-Else) and Arithmetic Operations ---
 print("\n--- SOAL 1: Efisiensi Pengurangan CO2 Proyek PLTS ---")
 print("Tujuan: Mengidentifikasi proyek PLTS dengan efisiensi pengurangan CO2 tinggi per juta rupiah investasi.\n")
@@ -274,6 +276,8 @@ for index, row in plts_projects.iterrows():
         print(f"{row['Project_ID']}: Tidak dapat dihitung (Biaya Investasi nol atau hilang)")
 
 print("\n" + "-" * 80 + "\n")
+
+```
 Output Hasil Analisis Soal 1:
 
 PLTS-NTT-001: 0.50 (High)
